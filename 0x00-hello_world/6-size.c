@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Task six
- * return: 0 (Success)
+ * return 0 (Success)
  */
 int main(void)
 {
